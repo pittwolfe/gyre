@@ -12,4 +12,9 @@ dask-worker-space
 *.res
 exitcode
 flat
-slope
+._*
+grids
+Experiments.numbers
+MOM6
+OUTPUT
+output_*.txt
